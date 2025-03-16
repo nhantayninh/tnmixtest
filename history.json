@@ -1,0 +1,17 @@
+   {
+       "2025.03.09": {
+           "date": "09/03/2025",
+           "changes": [
+               "Thêm tính năng chuyển đổi đáp án",
+               "Sửa lỗi hiển thị mã đề",
+               "Cải thiện giao diện người dùng"
+           ]
+       },
+       "2025.03.08": {
+           "date": "08/03/2025", 
+           "changes": [
+               "Phiên bản đầu tiên",
+               "Tính năng trộn đề cơ bản"
+           ]
+       }
+   }
