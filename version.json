@@ -1,9 +1,9 @@
 {
-    "version": "2025.04.03",
-    "release_date": "2025-04-03",
+    "version": "2025.04.04",
+    "release_date": "2025-04-04",
     "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.04.03/TN_Mix_Test_v2025.04.03.zip",
     "changelog": [
-                "Điều chỉnh độ dài mã đề lên tối đa 6 kí tự",
-                "Sửa một số chức năng khác"
+                "Điều chỉnh các chức năng quan trọng",
+                "Sửa một số lỗi nhỏ khác"
     ]
 } 
