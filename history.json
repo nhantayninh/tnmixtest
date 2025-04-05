@@ -1,9 +1,11 @@
    {
-      "2025.04.04": {
-           "date": "04/04/2025", 
+      "2025.04.05": {
+           "date": "05/04/2025", 
            "changes": [
-               "Điều chỉnh một số chức năng quan trọng",
-              "Sửa một số lỗi nhỏ khác"
+              "Thêm tuỳ chọn in tiêu đề mặc định theo mẫu Bộ GD&ĐT",
+               "Thêm tuỳ chọn xoá dòng trống giữa 2 câu hỏi",
+               "Sửa một số thành phần giao diện",
+               "Sửa một số lỗi nhỏ"
            ]
        },
        "2025.04.03": {
