@@ -1,9 +1,11 @@
 {
-    "version": "2025.04.04",
-    "release_date": "2025-04-04",
-    "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.04.04/TN_Mix_Test_v2025.04.04.zip",
+    "version": "2025.04.05",
+    "release_date": "2025-04-05",
+    "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.04.05/TN_Mix_Test_v2025.04.05.zip",
     "changelog": [
-                "Điều chỉnh các chức năng quan trọng",
-                "Sửa một số lỗi nhỏ khác"
+                "Thêm tuỳ chọn in tiêu đề mặc định theo mẫu Bộ GD&ĐT",
+                "Thêm tuỳ chọn xoá dòng trống giữa 2 câu hỏi",
+                "Sửa một số thành phần giao diện",
+                "Sửa một số lỗi nhỏ"
     ]
 } 
