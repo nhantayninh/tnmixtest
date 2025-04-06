@@ -1,15 +1,13 @@
    {
       "2025.04.06": [
            {
-               "version": "2025.04.06",
-               "release_date": "06-04-2025",
+               "date": "06/04/2025",
                "changes": [
                    "Cập nhật giao diện",
                    "Thêm tính năng cập nhật tự động",
                    "Sửa lỗi khi trộn đề",
                    "Cải thiện hiệu suất"
                ],
-               "critical": false
            },
       "2025.04.05": {
            "date": "05/04/2025", 
