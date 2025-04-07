@@ -1,6 +1,16 @@
 {
   "versions": [
     {
+      "version": "2025.04.07",
+      "release_date": "07-04-2025",
+      "release_notes": [
+        "Cập nhật giao diện",
+        "Thêm tính năng thiết đặt chân trang cho đề thi",
+        "Cải thiện hiệu suất"
+      ]
+    },
+  "versions": [
+    {
       "version": "2025.04.06",
       "release_date": "06-04-2025",
       "release_notes": [
