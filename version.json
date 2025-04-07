@@ -1,12 +1,11 @@
 {
-    "version": "2025.04.06",
-    "release_date": "06-04-2025",
-    "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.04.06/update.zip",
-    "setup_download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.04.06/NTN_Mix_Test_Setup.exe",
+    "version": "2025.04.07",
+    "release_date": "07-04-2025",
+    "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.04.07/update.zip",
+    "setup_download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.04.07/NTN_Mix_Test_Setup.exe",
     "release_notes": [
         "Cập nhật giao diện",
-        "Thêm tính năng cập nhật tự động",
-        "Sửa lỗi khi trộn đề",
+        "Thêm tính năng thiết đặt chân trang cho đề thi",
         "Cải thiện hiệu suất"
     ],
     "critical": false
