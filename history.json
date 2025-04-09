@@ -1,12 +1,12 @@
 {
   "versions": [
     {
-      "version": "2025.04.07",
-      "release_date": "07-04-2025",
+      "version": "2025.04.09",
+      "release_date": "09-04-2025",
       "release_notes": [
         "Cập nhật giao diện",
-        "Thêm tính năng thiết đặt chân trang cho đề thi",
-        "Cải thiện hiệu suất"
+        "Cập nhật tính năng xuất đề",
+        "Thêm hướng dẫn sử dụng phần mềm"
       ]
     },
   "versions": [
