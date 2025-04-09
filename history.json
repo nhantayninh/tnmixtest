@@ -21,13 +21,10 @@
       ]
     },
     {
-      "version": "2025.04.05",
-      "release_date": "05-04-2025",
+      "version": "2025.04.01",
+      "release_date": "01-04-2025",
       "release_notes": [
-        "Thêm tuỳ chọn in tiêu đề mặc định theo mẫu Bộ GD&ĐT",
-        "Thêm tuỳ chọn xoá dòng trống giữa 2 câu hỏi",
-        "Sửa một số thành phần giao diện",
-        "Sửa một số lỗi nhỏ"
+        "Phát hành phiên bản đầu tiên"
       ]
     }
   ]
