@@ -1,12 +1,12 @@
 {
   "versions": [
     {
-      "version": "2025.04.09",
-      "release_date": "09-04-2025",
+      "version": "2025.04.23",
+      "release_date": "23-04-2025",
       "release_notes": [
-        "Cập nhật giao diện",
-        "Cập nhật tính năng xuất đề",
-        "Thêm hướng dẫn sử dụng phần mềm"
+        "Cập nhật đăng ký bản quyền",
+        "Chỉnh sửa lỗi tạo mã QR đáp án",
+        "Cải thiện hiệu suất phần mềm"
       ]
     },
   "versions": [
