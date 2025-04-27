@@ -1,12 +1,11 @@
 {
   "versions": [
     {
-      "version": "2025.04.23",
-      "release_date": "23-04-2025",
+      "version": "2025.04.27",
+      "release_date": "27-04-2025",
       "release_notes": [
-        "Cập nhật đăng ký bản quyền",
-        "Chỉnh sửa lỗi tạo mã QR đáp án",
-        "Cải thiện hiệu suất phần mềm"
+       "Cập nhật tính năng tự động nhận dạng các phương án của câu hỏi Phần I",
+       "Cải thiện hiệu suất của chương trình"
       ]
     },
   "versions": [
