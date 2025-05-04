@@ -4,11 +4,10 @@
       "version": "2025.04.27",
       "release_date": "27-04-2025",
       "release_notes": [
-       "Cập nhật tính năng tự động nhận dạng các phương án của câu hỏi Phần I",
-       "Cải thiện hiệu suất của chương trình"
+        "Cập nhật tính năng tự động nhận dạng các phương án của câu hỏi Phần I",
+        "Cải thiện hiệu suất của chương trình"
       ]
     },
-  "versions": [
     {
       "version": "2025.04.06",
       "release_date": "06-04-2025",
