@@ -1,6 +1,16 @@
 {
   "versions": [
     {
+      "version": "2025.05.04",
+      "release_date": "04-05-2025",
+      "release_notes": [
+        "Thêm tính năng kiểm tra bảng trong file đề gốc",
+        "Thêm lựa chọn dấu phân cách câu hỏi",
+        "Thêm form thiết đặt cấu hình đề thi",
+        "Cập nhật giao diện người dùng"
+      ]
+    },
+    {
       "version": "2025.04.27",
       "release_date": "27-04-2025",
       "release_notes": [
