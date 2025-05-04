@@ -1,11 +1,13 @@
 {
-    "version": "2025.04.27",
-    "release_date": "27-04-2025",
-    "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.04.27/update.zip",
-    "setup_download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.04.27/NTN_Mix_Test_Setup.exe",
+    "version": "2025.05.04",
+    "release_date": "04-05-2025",
+    "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.05.04/update.zip",
+    "setup_download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.05.04/NTN_Mix_Test_Setup.exe",
     "release_notes": [
-        "Cập nhật tính năng tự động nhận dạng các phương án của câu hỏi Phần I",
-        "Cải thiện hiệu suất của chương trình"
+        "Thêm tính năng kiểm tra bảng trong file đề gốc",
+        "Thêm lựa chọn dấu phân cách câu hỏi",
+        "Thêm form thiết đặt cấu hình đề thi",
+        "Cập nhật giao diện người dùng"
     ],
     "critical": false
 } 
