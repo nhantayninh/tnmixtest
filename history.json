@@ -1,6 +1,15 @@
 {
   "versions": [
     {
+       "version": "2025.05.09",
+       "release_date": "2025-05-09",
+       "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.05.09/TN_Mix_Test_v2025.05.09.zip",
+       "changelog": [
+          "Thêm phím tắt cho các chức năng",
+          "Cập nhật giao diện người dùng"
+            ]
+        },
+    {
       "version": "2025.05.04",
       "release_date": "04-05-2025",
       "release_notes": [
