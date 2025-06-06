@@ -1,6 +1,17 @@
 {
   "versions": [
     {
+            "version": "2025.06.06",
+            "release_date": "2025-06-06",
+            "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.06.06/TN_Mix_Test_v2025.06.06.zip",
+            "changelog": [
+                "Thêm tính năng tạo đề từ file đề sau khi chuyển đổi (file Temp.docx)",
+                "Thêm tính năng trộn đề có câu hỏi nhóm, trộn đề môn Tiếng Anh",
+                "Thêm tính năng đánh dấu màu đỏ cho đáp án trong file Temp.docx",
+                "Cập nhật giao diện người dùng"
+            ]
+        },
+    {
        "version": "2025.05.09",
        "release_date": "2025-05-09",
        "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.05.09/TN_Mix_Test_v2025.05.09.zip",
