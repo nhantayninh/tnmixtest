@@ -1,13 +1,11 @@
 {
-    "version": "2025.06.06",    
-    "release_date": "06-06-2025",
-    "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.06.06/update.zip",
-    "setup_download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.06.06/NTN_Mix_Test_Setup.exe",
+    "version": "2025.07.27",    
+    "release_date": "27-07-2025",
+    "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.07.27/update.zip",
+    "setup_download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.07.27/NTN_Mix_Test_Setup.exe",
     "release_notes": [
-        "Thêm tính năng tạo đề từ file đề sau khi chuyển đổi (file Temp.docx)",
-        "Thêm tính năng trộn đề có câu hỏi nhóm, trộn đề môn Tiếng Anh",
-        "Thêm tính năng đánh dấu màu đỏ cho đáp án trong file Temp.docx",
-        "Cập nhật giao diện người dùng"
+        "Thêm tính năng trộn đề có chứa bảng (không cần chuyển bảng sang ảnh)",
+        "Cải thiện hiệu suất xử lý file Word"    
     ],
     "critical": false
-}
+} 
