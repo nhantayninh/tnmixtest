@@ -1,6 +1,15 @@
 {
   "versions": [
     {
+            "version": "2025.07.27",
+            "release_date": "2025-07-07",
+            "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.07.07/NTN_Mix_Test_Setup.exe",
+            "changelog": [
+                "Thêm tính năng trộn đề có chứa bảng (không cần chuyển bảng sang ảnh)",
+                "Cải thiện hiệu suất xử lý file Word"
+            ]
+        },
+    {
             "version": "2025.06.06",
             "release_date": "2025-06-06",
             "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.06.06/TN_Mix_Test_v2025.06.06.zip",
