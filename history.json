@@ -6,7 +6,6 @@
             "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.08.08/NTN_Mix_Test_Setup.exe",
             "changelog": [
                 "Sửa lỗi nhận dạng đề gốc",
-                "Thêm cảnh báo thiếu đáp án",
                 "Cải thiện hiệu suất xử lý của chươg trình"
             ]
         },
