@@ -1,11 +1,12 @@
 {
-    "version": "2025.07.27",    
-    "release_date": "27-07-2025",
-    "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.07.27/update.zip",
-    "setup_download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.07.27/NTN_Mix_Test_Setup.exe",
+    "version": "2025.08.06",    
+    "release_date": "06-08-2025",
+    "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.08.06/update.zip",
+    "setup_download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.08.06/NTN_Mix_Test_Setup.exe",
     "release_notes": [
-        "Thêm tính năng trộn đề có chứa bảng (không cần chuyển bảng sang ảnh)",
-        "Cải thiện hiệu suất xử lý file Word"    
+        "Sửa lỗi nhận dạng đề gốc",
+        "Thêm cảnh báo thiếu đáp án",
+        "Cải thiện hiệu suất xử lý của chươg trình"    
     ],
     "critical": false
 } 
