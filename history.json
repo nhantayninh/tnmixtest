@@ -1,9 +1,9 @@
 {
   "versions": [
     {
-            "version": "2025.08.06",
-            "release_date": "2025-08-06",
-            "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.08.06/NTN_Mix_Test_Setup.exe",
+            "version": "2025.08.08",
+            "release_date": "2025-08-08",
+            "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.08.08/NTN_Mix_Test_Setup.exe",
             "changelog": [
                 "Sửa lỗi nhận dạng đề gốc",
                 "Thêm cảnh báo thiếu đáp án",
