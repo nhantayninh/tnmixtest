@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+            "version": "2025.10.10",
+            "release_date": "2025-10-10",
+            "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.10.10/NTN_Mix_Test_Setup.exe",
+            "changelog": [
+                "Cho phép người dùng chọn mẫu định dạng đề xuất ra"
+            ]
+        },
+    {
             "version": "2025.10.06",
             "release_date": "2025-10-06",
             "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.10.06/NTN_Mix_Test_Setup.exe",
