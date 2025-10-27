@@ -1,12 +1,13 @@
 {
   "versions": [
     {
-            "version": "2025.10.16",
-            "release_date": "2025-10-16",
-            "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.10.16/NTN_Mix_Test_Setup.exe",
+            "version": "2025.10.28",
+            "release_date": "2025-10-28",
+            "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.10.28/NTN_Mix_Test_Setup.exe",
             "changelog": [
               "Cho phép người dùng chọn mẫu định dạng đề xuất ra",
-              "Cho phép người dùng chỉnh sửa dòng chú thích cuối đề thi"
+              "Cho phép người dùng chỉnh sửa dòng chú thích cuối đề thi",
+              "Sửa lỗi nhận dạng thiếu đáp án"
             ]
         },
     {
