@@ -1,8 +1,8 @@
 {
-    "version": "2025.10.28",    
-    "release_date": "16-10-2025",
-    "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.10.28/update.zip",
-    "setup_download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.10.28/NTN_Mix_Test_Setup.exe",
+    "version": "2025.11.03",    
+    "release_date": "03-11-2025",
+    "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.11.03/update.zip",
+    "setup_download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.11.03/NTN_Mix_Test_Setup.exe",
     "release_notes": [
         "Cho phép người dùng chọn mẫu tự tạo",  
         "Cho phép người dùng chỉnh sửa dòng chú thích cuối đề thi",
