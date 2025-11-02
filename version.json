@@ -6,7 +6,7 @@
     "release_notes": [
         "Cho phép người dùng chọn mẫu tự tạo",  
         "Cho phép người dùng chỉnh sửa dòng chú thích cuối đề thi",
-        "Sửa lỗi nhận dạng thiếu đáp án"
+        "Sửa lỗi không xuất được đề"
     ],
     "critical": false
 } 
