@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+            "version": "2025.11.09",
+            "release_date": "2025-11-09",
+            "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.11.09/NTN_Mix_Test_Setup.exe",
+            "changelog": [
+            "Bổ sung tính năng sử dụng Gemini API key để sử dụng các tính năng AI"
+            ]
+        },
+    {
             "version": "2025.11.04",
             "release_date": "2025-11-04",
             "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.11.04/NTN_Mix_Test_Setup.exe",
