@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+            "version": "2025.12.24",
+            "release_date": "2025-12-24",
+            "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.12.24/NTN_Mix_Test_Setup.exe",
+            "changelog": [
+            "Sửa lỗi trộn đề và xuất QR code"
+            ]
+        },
+    {
             "version": "2025.12.19",
             "release_date": "2025-12-19",
             "download_url": "https://github.com/nhantayninh/tnmixtest/releases/download/v2025.12.19/NTN_Mix_Test_Setup.exe",
